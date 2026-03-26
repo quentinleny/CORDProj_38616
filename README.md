@@ -16,12 +16,13 @@ image → extraction → risk score → (accept vs verify)
 
 ## Setup
 
-Clone the repository:
-git clone <repo_url>
-cd CORDProj_38616
+Clone the repository and create data directory:
 
-Create data directory:
+```bash
+git clone https://github.com/quentinleny/CORDProj_38616
+cd CORDProj_38616
 mkdir Data
+```
 
 ## Dataset Download Instructions
 
