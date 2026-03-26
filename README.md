@@ -69,6 +69,7 @@ cd SROIE
 
 ### Final Structure
 
+```bash
 CORDPROJ_38616/
 ├── Code/
 │
@@ -87,3 +88,5 @@ CORDPROJ_38616/
 │   │
 │   └── Misc/
 │
+
+```
