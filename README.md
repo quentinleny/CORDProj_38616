@@ -39,6 +39,8 @@ ds = load_dataset("naver-clova-ix/cord-v2")
 ds.save_to_disk("CORD")
 PY
 
+```
+
 Note: You may see a warning about unauthenticated Hugging Face requests. This is expected and can be ignored unless download speed/rate limits become an issue.
 
 ### SROIE
@@ -63,6 +65,7 @@ cd SROIE
 7. Unzip the download
 8. Move extracted contents up one level
 
+```
 
 ### Final Structure
 
